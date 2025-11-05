@@ -3,6 +3,8 @@
 Analysis of Stock Price Fluctuation Prediction Results for PT Bank Jago Tbk (IDX: ARTO) Using Gated Recurrent Units (GRU) with the Isolation Forest (IF) Algorithm and Local Outlier Factor (LOF)
 
 **RESULT**
+
+<div style="text-align: justify;">
 This research was conducted considering the high volatility in the stock
 prices of PT Bank Jago Tbk. (IDX: ARTO), driven by strategic events
 such as acquisitions, rebranding, and investments by major technology
@@ -23,3 +25,4 @@ that the GRU model with outlier detection achieved a MAPE of 2.67%,
 outperforming the model without outlier detection, which had a MAPE
 of 3.45%. This study demonstrates that considering and handling
 outliers can improve the performance of stock prediction models
+</div>
