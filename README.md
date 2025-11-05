@@ -28,4 +28,5 @@ outliers can improve the performance of stock prediction models
 </div>
 
 **RESEARCH SUBMISSION**
+
 https://repo.itera.ac.id/depan/submission/SB2505020001
