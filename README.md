@@ -26,3 +26,6 @@ outperforming the model without outlier detection, which had a MAPE
 of 3.45%. This study demonstrates that considering and handling
 outliers can improve the performance of stock prediction models
 </div>
+
+**RESEARCH SUBMISSION**
+https://repo.itera.ac.id/depan/submission/SB2505020001
