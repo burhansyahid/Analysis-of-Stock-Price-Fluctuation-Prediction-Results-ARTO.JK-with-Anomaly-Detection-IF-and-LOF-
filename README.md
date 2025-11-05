@@ -24,9 +24,8 @@ using the Mean Absolute Percentage Error (MAPE). The results show
 that the GRU model with outlier detection achieved a MAPE of 2.67%,
 outperforming the model without outlier detection, which had a MAPE
 of 3.45%. This study demonstrates that considering and handling
-outliers can improve the performance of stock prediction models
-</div>
-
+outliers can improve the performance of stock prediction models. 
+</div>  <br>
 
 **RESEARCH SUBMISSION**
 
